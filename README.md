@@ -24,7 +24,7 @@ you need to type in a numerical value or you will make Mr.Krabs Mad!<br>
 > `Note:` total money charged = slot_lines x bet per line.<br>
 the more you bet, the risky it is! but as you win, you get more money from Mr.Krabs!
 - at the end, you see your bet result in the slots, and prompted to play again if you want. <br>
-![image](https://github.com/ahmed-elrefai/Mr.KrabsSlotMachine/assets/114250600/085be6b2-5e60-4606-9831-f2d50a868c55)
+![image](https://github.com/ahmed-elrefai/Mr.KrabsSlotMachine/assets/114250600/085be6b2-5e60-4606-9831-f2d50a868c55) <br>
  and that's it. have a great day!
 
 ## __Socials__
