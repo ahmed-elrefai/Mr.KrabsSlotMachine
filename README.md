@@ -4,7 +4,7 @@
 
 ## __Introduction__:
 this game is a small node js console project which might bring you some joy!<br>
-it is.. my very first nodejs project, that's why it's a bit simple.
+it is.. my very first nodejs project, that's why it's a bit simple. <br>
 it was made in less than one day by '_Ahmed Elrefai_' <br>
 all the links are at the social section bellow.
 > `disclaimer:` this has nothing to do with the actual show, it's just an idea that came to my mind. <br>
