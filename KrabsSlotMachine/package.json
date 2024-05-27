@@ -1,0 +1,14 @@
+{
+  "name": "slotmachinetwt",
+  "version": "1.0.0",
+  "description": "my_first_javascript_tutorial_project_to_learn_syntax",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
