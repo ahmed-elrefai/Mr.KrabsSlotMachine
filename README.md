@@ -30,5 +30,5 @@ the more you bet, the risky it is! but as you win, you get more money from Mr.Kr
 ## __Socials__
 - facebook: [A.Elrefai](https://www.facebook.com/A.Elrefai/)
 - linkedin: [ahmed-elrefai](https://www.linkedin.com/in/ahmed-elrefai/)
-- twitter/X: [@elreyodev](https://x.com/elreyodev)
+- twitter/X: [@elreyodev](https://x.com/elreyodev) <br>
 and follow my github for more project!
